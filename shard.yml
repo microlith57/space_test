@@ -1,0 +1,17 @@
+name: space
+version: 0.1.0
+
+authors:
+  - microlith57 <microlith57@gmail.com>
+
+targets:
+  space:
+    main: src/main.cr
+
+dependencies:
+  progress:
+    github: askn/progress
+
+crystal: 0.28.0
+
+license: MIT
